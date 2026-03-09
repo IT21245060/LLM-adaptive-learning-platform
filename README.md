@@ -20,7 +20,7 @@
 **Project Type:** Ongoing Group Research Project  
 **Research Focus:** Adaptive Learning Systems & Cognitive Intelligence in Education  
 **My Role:** Lead Developer - AI/ML Backend & Question Generation Systems  
-**Institution:** [Your Institution Name]  
+**Institution:** Sri Lanka Institute of Information Technology (SLIIT) 
 **Last Updated:** February 2026
 
 ### Research Objectives
